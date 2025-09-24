@@ -1,4 +1,4 @@
-# Workers Platform - Frontend Development Assignment# Frontend Developer Intern Assignment  
+# Workers Platform - Frontend Development Assignment # Frontend Developer Intern Assignment  
 
 
 
@@ -6,9 +6,7 @@ A modern, responsive web application for connecting users with skilled workers a
 
 ## 🚀 Quick Start- Star this repo
 
-
-
-### Prerequisites## Objective  
+### Prerequisites##  
 
 - **Node.js**: v18.17.0 or higherThis assignment is designed to assess your practical skills in **React, Next.js, TypeScript, Tailwind CSS, and frontend optimizations**. You will work on an existing **Next.js application** that contains layout/design issues and some configuration bugs. Your task is to identify and resolve these issues, and implement the listed features to enhance the overall user experience. 
 
