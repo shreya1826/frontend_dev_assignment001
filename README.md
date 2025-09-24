@@ -4,8 +4,6 @@
 
 A modern, responsive web application for connecting users with skilled workers across various service categories. Built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4.## Mandatory Tasks
 
-- Follow SolveEase on [Github](https://github.com/solve-ease) and [Linkedin](https://www.linkedin.com/company/solve-ease)
-
 ## 🚀 Quick Start- Star this repo
 
 
@@ -88,7 +86,7 @@ npm run test:coverage # Run tests with coverage report- Ensure clean and maintai
 
 ### ✅ Assignment Tasks Completed- Update the frontend page to fetch this data using `fetch` (or any modern method such as `useEffect`, `useSWR`, or React Query).
 
-- Donot delete the existing data loading logic, comment it out.  
+- Do not delete the existing data loading logic, comment it out.  
 
 #### 1. **Fixed Cards Layout & Responsiveness**- Implement:  
 
@@ -350,7 +348,9 @@ curl "http://localhost:3003/api/workers?page=1&limit=12"
 ## 📱 Screenshots & Live Implementation
 
 ### 🎯 Application Successfully Running
-![Workers Platform - Live Implementation](https://github.com/user-attachments/assets/workers-platform-screenshot.png)
+
+![Uploading image.png…]()
+
 
 **✅ Successful Implementation Features Shown:**
 - **Responsive Grid Layout**: 4-column desktop layout with proper card spacing
