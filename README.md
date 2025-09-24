@@ -345,12 +345,6 @@ curl "http://localhost:3003/api/workers?page=1&limit=12"
 }
 ```
 
-## 📱 Screenshots & Live Implementation
-
-### 🎯 Application Successfully Running
-
-![Uploading image.png…]()
-
 
 **✅ Successful Implementation Features Shown:**
 - **Responsive Grid Layout**: 4-column desktop layout with proper card spacing
